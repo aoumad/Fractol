@@ -34,16 +34,16 @@ $> ./fractol burningship
 
 ## Resources
 I am sharing all the important resources that helped me the most and i was daily checking them during the implementation of the project, hope it would be useful for you too :)
-https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx#the-core-of-a-minilibx-program-initialization-and-destruction
-https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx
-https://aurelienbrabant.fr/blog/managing-events-with-the-minilibx
-https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx
-https://www.geeksforgeeks.org/julia-fractal-set-in-c-c-using-graphics/
-https://rosettacode.org/wiki/Julia_set
-https://lodev.org/cgtutor/juliamandelbrot.html
-https://gontjarow.github.io/MiniLibX/mlx-tutorial-create-image.html
-https://docs.rs/crate/minilibx/0.2.0
-https://www.desmos.com/calculator
-https://tronche.com/gui/x/xlib/events/
-https://tronche.com/gui/x/xlib/events/window-state-change/destroy.html
-https://qst0.github.io/ft_libgfx/man_mlx_new_image.html
+* https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx#the-core-of-a-minilibx-program-initialization-and-destruction
+* https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx
+* https://aurelienbrabant.fr/blog/managing-events-with-the-minilibx
+* https://aurelienbrabant.fr/blog/getting-started-with-the-minilibx
+* https://www.geeksforgeeks.org/julia-fractal-set-in-c-c-using-graphics/
+* https://rosettacode.org/wiki/Julia_set
+* https://lodev.org/cgtutor/juliamandelbrot.html
+* https://gontjarow.github.io/MiniLibX/mlx-tutorial-create-image.html
+* https://docs.rs/crate/minilibx/0.2.0
+* https://www.desmos.com/calculator
+* https://tronche.com/gui/x/xlib/events/
+* https://tronche.com/gui/x/xlib/events/window-state-change/destroy.html
+* https://qst0.github.io/ft_libgfx/man_mlx_new_image.html
